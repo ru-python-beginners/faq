@@ -18,15 +18,15 @@ https://www.eclipse.org/downloads/ - говорят не хуже чем Pycharm
 
 https://code.visualstudio.com/docs/languages/python 
 
-Из редакторов - sublime text, написан на python - https://www.sublimetext.com/3 
+Из редакторов - Sublime text, написан на python - https://www.sublimetext.com/3 
 
 ## Книги
 
-Канал с 45 книгами по python(пополняется): 
+**Канал с 45 книгами по python(пополняется):** 
 
 https://t.me/ru_python_books 
 
-Книга по Django на украинском от украинского разработчика со стажем. 
+**Книга по Django на украинском от украинского разработчика со стажем:** 
 
 https://drive.google.com/open?id=0BwNVyRX12MsfRjRHOWd..
 
@@ -42,40 +42,36 @@ https://t.me/py_digest
  
 Курс видеоуроков в пачке, формат торрент-раздачи(2 года назад вылил сам с торрента и храню у себя), у кого не открывается можете просто скачать торрент файл 
 
-http://www.ex.ua/101768608  
+http://www.ex.ua/101768608 (ссылка битая)
  
-##Ютуб каналы по Django+Python: 
+## Ютуб каналы по Django+Python: 
 
-https://www.youtube.com/user/CodingEntrepreneurs 
-https://www.youtube.com/user/shadrus 
+* https://www.youtube.com/user/CodingEntrepreneurs 
+* https://www.youtube.com/user/shadrus 
  
-Каналы с морем информации касательно программирования: 
+**Каналы с морем информации касательно программирования:** 
 
-https://www.youtube.com/user/OpenLektorium 
-https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH.. 
-https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz.. 
-https://www.youtube.com/user/TPMGTU 
+* https://www.youtube.com/user/OpenLektorium 
+* https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH.. 
+* https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz.. 
+* https://www.youtube.com/user/TPMGTU 
  
-Толковые стримы, советую подписаться: 
+**Толковые стримы, советую подписаться:** 
 
 https://www.livecoding.tv 
  
-Курсы: 
+**Курсы:** 
 
-https://stepik.org/course/Программирование-на-Python-67 
-https://stepik.org/course/Адаптивный-тренажер-Python-.. 
-https://stepik.org/course/Adaptive-Python-568 
-https://www.codecademy.com/learn/python 
-https://www.codeschool.com/learn/python  
+* https://stepik.org/course/Программирование-на-Python-67 
+* https://stepik.org/course/Адаптивный-тренажер-Python-.. 
+* https://stepik.org/course/Adaptive-Python-568 
+* https://www.codecademy.com/learn/python 
+* https://www.codeschool.com/learn/python  
  
 ## Каналы-чаты для обсуждения и взаимопомощи: 
 
-https://telegram.me/python_beginners 
-http://telegram.me/ru_python 
-http://telegram.me/rupython 
-http://telegram.me/pydjango 
-http://telegram.me/django_framework 
- 
-
- 
-я надеюсь этого хватит для старта? а если нет google и прочие вам в помощь
+* https://telegram.me/python_beginners 
+* http://telegram.me/ru_python 
+* http://telegram.me/rupython 
+* http://telegram.me/pydjango 
+* http://telegram.me/django_framework 
