@@ -1,77 +1,68 @@
-# FAQ telegram-чата python_beginners (https://t.me/python_beginners)
+# FAQ Telegram-чата [@python_beginners](https://t.me/python_beginners)
 
 В этом репозитории находится полезная информация, собранная участниками чата.
 
 ## С чего начать
 
-Официальная документация: 
+Официальная документация:
 
-https://www.python.org/doc/ 
+ - [Python 3](https://docs.python.org/3/)
+ - [Django](https://docs.djangoproject.com/)
 
-https://www.djangoproject.com/
+## Редакторы и IDE
 
-## IDE for python: 
-
-https://www.jetbrains.com/pycharm/ 
-
-https://www.eclipse.org/downloads/ - говорят не хуже чем Pycharm, но нужно сначала настроить: https://habrahabr.ru/post/167559/ 
-
-https://code.visualstudio.com/docs/languages/python 
-
-Из редакторов - Sublime text, написан на python - https://www.sublimetext.com/3 
+ - [PyCharm](https://www.jetbrains.com/pycharm/)
+ - [Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+ - [Atom](https://atom.io/)
+ - [Sublime Text](https://www.sublimetext.com/3) (про плагины для питона ищите в чате по хештегу #sublimetext)
+ - [Eclipse](https://www.eclipse.org/downloads/) ([пост на Хабре про настройку](https://habrahabr.ru/post/167559/))
 
 ## Книги
 
-**Канал с 45 книгами по python(пополняется):** 
-
-https://t.me/ru_python_books 
-
-**Книга по Django на украинском от украинского разработчика со стажем:** 
-
-https://drive.google.com/open?id=0BwNVyRX12MsfRjRHOWd..
+ - [@ru_python_books](https://t.me/ru_python_books)
 
 ## Туториалы и статьи
 
-https://djangogirls.org/ 
+ - [Django Girls](https://djangogirls.org/)
+ - [Full Stack Python](https://www.fullstackpython.com/)
 
 ## Полезные ресурсы
 
-https://t.me/py_digest 
+ - [@py_digest](https://t.me/py_digest)
 
 ## Видео 
  
-Курс видеоуроков в пачке, формат торрент-раздачи(2 года назад вылил сам с торрента и храню у себя), у кого не открывается можете просто скачать торрент файл 
+### Youtube: Python
 
-http://www.ex.ua/101768608 (ссылка битая)
+ - [Coding Entrepeneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+ - [shadrus](https://www.youtube.com/user/shadrus)
  
-## Ютуб каналы по Django+Python: 
+### Youtube: Программриование
 
-* https://www.youtube.com/user/CodingEntrepreneurs 
-* https://www.youtube.com/user/shadrus 
+ - https://www.youtube.com/user/OpenLektorium 
+ - https://www.youtube.com/user/TPMGTU 
  
-**Каналы с морем информации касательно программирования:** 
+### Стримы
 
-* https://www.youtube.com/user/OpenLektorium 
-* https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH.. 
-* https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz.. 
-* https://www.youtube.com/user/TPMGTU 
+ - [LiveCoding.TV](https://www.livecoding.tv)
  
-**Толковые стримы, советую подписаться:** 
+## Курсы
 
-https://www.livecoding.tv 
+ - https://stepik.org/course/Программирование-на-Python-67 
+ - https://stepik.org/course/Adaptive-Python-568 
+ - https://www.codecademy.com/learn/python 
+ - https://www.codeschool.com/learn/python
+
+### Задачи
+
+ - [CodeWars](https://www.codewars.com/)
  
-**Курсы:** 
+## Чаты для обсуждения и взаимопомощи
 
-* https://stepik.org/course/Программирование-на-Python-67 
-* https://stepik.org/course/Адаптивный-тренажер-Python-.. 
-* https://stepik.org/course/Adaptive-Python-568 
-* https://www.codecademy.com/learn/python 
-* https://www.codeschool.com/learn/python  
- 
-## Каналы-чаты для обсуждения и взаимопомощи: 
+ - [@python_beginners](https://telegram.me/python_beginners)
+ - [@ru_python](http://telegram.me/ru_python)
+ - [@rupython](http://telegram.me/rupython)
+ - [@pydjango](http://telegram.me/pydjango)
+ - [@django_framework](http://telegram.me/django_framework)
 
-* https://telegram.me/python_beginners 
-* http://telegram.me/ru_python 
-* http://telegram.me/rupython 
-* http://telegram.me/pydjango 
-* http://telegram.me/django_framework 
+ - [Python.ru @ Slack](https://python.stamplayapp.com/)
