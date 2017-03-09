@@ -12,6 +12,7 @@
 ## Редакторы и IDE
 
  - [PyCharm](https://www.jetbrains.com/pycharm/)
+ - [получить бесплатно Pycharm professional если вы студент](http://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/)
  - [Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
  - [Atom](https://atom.io/)
  - [Sublime Text](https://www.sublimetext.com/3) (про плагины для питона ищите в чате по хештегу #sublimetext)
@@ -52,12 +53,18 @@
  - [Stepik. Adaptive Python](https://stepik.org/course/568)
  - [Codecademy](https://www.codecademy.com/learn/python)
  - [Code School](https://www.codeschool.com/learn/python)
+ 
 
 ### Задачи
 
  - [CodeWars](https://www.codewars.com/)
  - [CheckIO](https://py.checkio.org/)
-
+ - [Codecombat](https://codecombat.com/)
+ - [Timus Online Judge](http://acm.timus.ru/?locale=ru)
+ - [codingame](https://www.codingame.com/start)
+ - [Школа программиста](https://acmp.ru/)
+ - [Empire of Code](https://empireofcode.com/)
+ 
 ## Чаты для обсуждения и взаимопомощи
 
 ### Telegram
