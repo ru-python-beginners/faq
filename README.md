@@ -30,39 +30,73 @@
 
  - [@py_digest](https://t.me/py_digest)
 
-## Видео 
- 
+## Видео
+
 ### Youtube: Python
 
  - [Coding Entrepeneurs](https://www.youtube.com/user/CodingEntrepreneurs)
  - [shadrus](https://www.youtube.com/user/shadrus)
- 
-### Youtube: Программриование
 
- - https://www.youtube.com/user/OpenLektorium 
- - https://www.youtube.com/user/TPMGTU 
- 
+### Youtube: Программирование
+
+ - [Лекториум](https://www.youtube.com/user/OpenLektorium)
+ - [Технострим Mail.Ru Group](https://www.youtube.com/user/TPMGTU)
+
 ### Стримы
 
  - [LiveCoding.TV](https://www.livecoding.tv)
- 
+
 ## Курсы
 
- - https://stepik.org/course/Программирование-на-Python-67 
- - https://stepik.org/course/Adaptive-Python-568 
- - https://www.codecademy.com/learn/python 
- - https://www.codeschool.com/learn/python
+ - [Stepik. Программирование на Python](https://stepik.org/course/67)
+ - [Stepik. Adaptive Python](https://stepik.org/course/568)
+ - [Codecademy](https://www.codecademy.com/learn/python)
+ - [Code School](https://www.codeschool.com/learn/python)
 
 ### Задачи
 
  - [CodeWars](https://www.codewars.com/)
- 
+ - [CheckIO](https://py.checkio.org/)
+
 ## Чаты для обсуждения и взаимопомощи
 
- - [@python_beginners](https://telegram.me/python_beginners)
- - [@ru_python](http://telegram.me/ru_python)
- - [@rupython](http://telegram.me/rupython)
- - [@pydjango](http://telegram.me/pydjango)
- - [@django_framework](http://telegram.me/django_framework)
+### Telegram
 
- - [Python.ru @ Slack](https://python.stamplayapp.com/)
+ - [@python_beginners](https://t.me/python_beginners)
+ - [@ru_python](https://t.me/ru_python)
+ - [@rupython](https://t.me/rupython)
+ - [@pydjango](https://t.me/pydjango)
+ - [@django_framework](https://t.me/django_framework)
+
+### Slack
+
+ - [Python.ru](https://python.stamplayapp.com/)
+
+## Отправка фрагментов кода в чат
+
+Не приветствуется:
+
+ - скриншоты кода (как в виде изображений, так и в виде отдельных файлов)
+ - отправка больших и нечитаемых объемов кода в виде сообщения, а не ссылкой на сторонние сервисы
+
+### Небольшие фрагменты кода
+
+Код необходимо расположить внутри backtick (кнопка 'ё' в латинской раскладке, слева от кнопки 1):
+
+Для однострочных фрагментов:
+
+    `source code example`
+
+Для многострочных фрагментов:
+
+    ```
+    source
+        code
+            example
+    ```
+
+### Объемные фрагменты кода
+
+ - [GitHub Gist](https://gist.github.com/)
+ - [Fedora Pastebin](https://paste.fedoraproject.org/)
+ - [GitHub Gist Uploader Telegram bot](http://t.me/github_gist_bot/)
