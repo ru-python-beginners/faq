@@ -23,12 +23,14 @@
  - [@ru_python_books](https://t.me/ru_python_books)
 
 ## Туториалы и статьи
-
+ - [Python для начинающих](http://python-rutour.rhcloud.com/)
+ - [ПИТОНТЬЮТОР](http://pythontutor.ru/)
  - [Django Girls](https://djangogirls.org/)
  - [Full Stack Python](https://www.fullstackpython.com/)
 
 ## Полезные ресурсы
-
+ - [Habrahabr](https://habrahabr.ru/hub/python/)
+ - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
 
 ## Видео
@@ -107,3 +109,7 @@
  - [GitHub Gist](https://gist.github.com/)
  - [Fedora Pastebin](https://paste.fedoraproject.org/)
  - [GitHub Gist Uploader Telegram bot](http://t.me/github_gist_bot/)
+ 
+ ## Плюшка для студентов/школьников
+ 
+ - [top secret](https://education.github.com/pack)
