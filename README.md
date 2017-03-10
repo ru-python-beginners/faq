@@ -11,8 +11,7 @@
 
 ## Редакторы и IDE
 
- - [PyCharm](https://www.jetbrains.com/pycharm/)
- - [получить бесплатно Pycharm professional если вы студент](http://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/)
+ - [PyCharm](https://www.jetbrains.com/pycharm/) ([бесплатная лицензия для студентов](http://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/))
  - [Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
  - [Atom](https://atom.io/)
  - [Sublime Text](https://www.sublimetext.com/3) (про плагины для питона ищите в чате по хештегу #sublimetext)
@@ -23,15 +22,18 @@
  - [@ru_python_books](https://t.me/ru_python_books)
 
 ## Туториалы и статьи
+
  - [Python для начинающих](http://python-rutour.rhcloud.com/)
- - [ПИТОНТЬЮТОР](http://pythontutor.ru/)
+ - [Питонтьютор](http://pythontutor.ru/)
  - [Django Girls](https://djangogirls.org/)
  - [Full Stack Python](https://www.fullstackpython.com/)
 
 ## Полезные ресурсы
+
  - [Habrahabr](https://habrahabr.ru/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
+ - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ## Видео
 
@@ -63,7 +65,7 @@
  - [CheckIO](https://py.checkio.org/)
  - [Codecombat](https://codecombat.com/)
  - [Timus Online Judge](http://acm.timus.ru/?locale=ru)
- - [codingame](https://www.codingame.com/start)
+ - [Codingame](https://www.codingame.com/start)
  - [Школа программиста](https://acmp.ru/)
  - [Empire of Code](https://empireofcode.com/)
  
@@ -109,7 +111,3 @@
  - [GitHub Gist](https://gist.github.com/)
  - [Fedora Pastebin](https://paste.fedoraproject.org/)
  - [GitHub Gist Uploader Telegram bot](http://t.me/github_gist_bot/)
- 
- ## Плюшка для студентов/школьников
- 
- - [top secret](https://education.github.com/pack)
