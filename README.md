@@ -27,6 +27,10 @@
  - [Питонтьютор](http://pythontutor.ru/)
  - [Django Girls](https://djangogirls.org/)
  - [Full Stack Python](https://www.fullstackpython.com/)
+ - [Learn X in Y minutes, where X=python3](https://learnxinyminutes.com/docs/ru-ru/python3-ru/)
+ - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+ - [Intermediate Python](https://www.gitbook.com/book/lancelote/intermediate-python/details)
+ - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
 
 ## Полезные ресурсы
 
