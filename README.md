@@ -61,7 +61,7 @@
  - [Stepik. Adaptive Python](https://stepik.org/course/568)
  - [Codecademy](https://www.codecademy.com/learn/python)
  - [Code School](https://www.codeschool.com/learn/python)
- 
+
 
 ### Задачи
 
@@ -72,6 +72,7 @@
  - [Codingame](https://www.codingame.com/start)
  - [Школа программиста](https://acmp.ru/)
  - [Empire of Code](https://empireofcode.com/)
+ - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
  
 ## Чаты для обсуждения и взаимопомощи
 
