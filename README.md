@@ -1,4 +1,4 @@
-# FAQ Telegram-чата [@python_beginners](https://t.me/python_beginners)
+# [@ru_python_beginners](https://t.me/ru_python_beginners) FAQ
 
 В этом репозитории находится полезная информация, собранная участниками чата.
 
@@ -77,11 +77,12 @@
 
 ### Telegram
 
- - [@python_beginners](https://t.me/python_beginners)
+ - [@ru_python_beginners](https://t.me/ru_python_beginners)
  - [@ru_python](https://t.me/ru_python)
  - [@rupython](https://t.me/rupython)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
+ - @python_beginners - лишился модерации
 
 ### Slack
 
@@ -96,7 +97,7 @@
 
 ### Небольшие фрагменты кода
 
-Код необходимо расположить внутри backtick (кнопка 'ё' в латинской раскладке, слева от кнопки 1):
+Код необходимо расположить внутри обратных кавычек (backtick, кнопка 'ё' в латинской раскладке, слева от кнопки 1):
 
 Для однострочных фрагментов:
 
