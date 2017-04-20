@@ -19,7 +19,7 @@
 
 ## Книги
 
- - [@ru_python_books](https://t.me/ru_python_books)
+ - [@ru_python_books](https://t.me/ru_python_books) (требуется мейнтейнер, пишите [@banteg](https://t.me/banteg))
 
 ## Туториалы и статьи
 
@@ -74,7 +74,7 @@
  - [Empire of Code](https://empireofcode.com/)
  - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
  - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
- 
+
 ## Чаты для обсуждения и взаимопомощи
 
 ### Telegram
