@@ -21,7 +21,7 @@
 
 ## Книги
 
- - [@ru_python_books](https://t.me/ru_python_books)
+ - [@ru_python_books](https://t.me/ru_python_books) (требуется мейнтейнер, пишите [@banteg](https://t.me/banteg))
 
 ## Туториалы и статьи
 
@@ -63,7 +63,7 @@
  - [Stepik. Adaptive Python](https://stepik.org/course/568)
  - [Codecademy](https://www.codecademy.com/learn/python)
  - [Code School](https://www.codeschool.com/learn/python)
- 
+
 
 ### Задачи
 
@@ -74,7 +74,9 @@
  - [Codingame](https://www.codingame.com/start)
  - [Школа программиста](https://acmp.ru/)
  - [Empire of Code](https://empireofcode.com/)
- 
+ - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
+ - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
+
 ## Чаты для обсуждения и взаимопомощи
 
 ### Telegram
