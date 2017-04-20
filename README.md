@@ -35,11 +35,17 @@
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
 
 ## Полезные ресурсы
+ 
+### на английском
+ - [StackOverflow](https://stackoverflow.com/questions/tagged/python)
+ - [/r/LearnPython](https://www.reddit.com/r/learnpython/)
+ - [GitHub Student Developer Pack](https://education.github.com/pack)
 
+
+### на русском
  - [Habrahabr](https://habrahabr.ru/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
- - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ## Видео
 
@@ -83,6 +89,7 @@
 
  - [@ru_python_beginners](https://t.me/ru_python_beginners)
  - [@ru_python](https://t.me/ru_python)
+ - [@pyflood](https://t.me/pyflood)
  - [@rupython](https://t.me/rupython)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
@@ -94,20 +101,15 @@
 
 ## Отправка фрагментов кода в чат
 
-Не приветствуется:
+Не приветствуются скриншоты кода.
 
- - скриншоты кода (как в виде изображений, так и в виде отдельных файлов)
- - отправка больших и нечитаемых объемов кода в виде сообщения, а не ссылкой на сторонние сервисы
-
-### Небольшие фрагменты кода
-
-Код необходимо расположить внутри обратных кавычек (backtick, кнопка 'ё' в латинской раскладке, слева от кнопки 1):
+Небольшие фрагменты кода необходимо расположить внутри обратных кавычек (backtick, кнопка 'ё' в латинской раскладке, слева от кнопки 1).
 
 Для однострочных фрагментов:
 
     `source code example`
 
-Для многострочных фрагментов:
+Для многострочных (до 10 строк) фрагментов:
 
     ```
     source
@@ -115,7 +117,7 @@
             example
     ```
 
-### Объемные фрагменты кода
+Если необходимо отправить более 10 строк, используйте сторонние сервисы:
 
  - [GitHub Gist](https://gist.github.com/)
  - [Fedora Pastebin](https://paste.fedoraproject.org/)
