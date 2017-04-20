@@ -73,6 +73,7 @@
  - [Школа программиста](https://acmp.ru/)
  - [Empire of Code](https://empireofcode.com/)
  - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
+ - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
  
 ## Чаты для обсуждения и взаимопомощи
 
