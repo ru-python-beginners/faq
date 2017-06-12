@@ -34,6 +34,7 @@
  - [Intermediate Python](https://www.gitbook.com/book/lancelote/intermediate-python/details)
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
  - [отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
+ - [про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
 ## Полезные ресурсы
  
