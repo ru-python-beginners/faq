@@ -9,6 +9,7 @@
  - [Python 3](https://docs.python.org/3/)
  - [Django](https://docs.djangoproject.com/)
  - [Flask](http://flask.pocoo.org/)
+ - [Bottle](http://bottlepy.org/docs/stable/)
  - [SQLAlchemy](https://www.sqlalchemy.org/)
 
 ## Редакторы и IDE
