@@ -35,6 +35,7 @@
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
  - [отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
  - [про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+ - [про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
 
 ## Полезные ресурсы
  
