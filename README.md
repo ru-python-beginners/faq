@@ -102,7 +102,6 @@
  - [@ru_python_beginners](https://t.me/ru_python_beginners)
  - [@ru_python](https://t.me/ru_python)
  - [@pyflood](https://t.me/pyflood)
- - [@rupython](https://t.me/rupython)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
  - @python_beginners - лишился модерации
