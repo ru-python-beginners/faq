@@ -25,8 +25,8 @@
 Для начинающих хорошо подойдет какая-нибудь из нижеперечисленных:
  - М. Лутц. «Изучаем Python»
  - М. Саммерфилд. «Программирование на Python»
- - [A Byte of Python](https://python.swaroopch.com/)
  - Э. Мэтиз. «Изучаем Python. Программирование игр, визуализация данных, веб-приложения»
+ - [A Byte of Python](https://python.swaroopch.com/)
  
 Ещё есть канал с книгами:
  - [@ru_python_books](https://t.me/ru_python_books) (требуется мейнтейнер, пишите [@banteg](https://t.me/banteg))
