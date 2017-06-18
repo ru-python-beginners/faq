@@ -34,14 +34,6 @@
 
 ## Туториалы и статьи
 
-### на русском
- - [Python для начинающих](http://python-rutour.rhcloud.com/)
- - [Питонтьютор](http://pythontutor.ru/)
- - [Пишем бота для Telegram на языке Python](https://groosha.gitbooks.io/telegram-bot-lessons)
- - [Django Girls](https://djangogirls.org/)
- - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
- - [про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
-
 ### на английском
  - [Full Stack Python](https://www.fullstackpython.com/)
  - [Learn X in Y minutes, where X=python3](https://learnxinyminutes.com/docs/ru-ru/python3-ru/)
@@ -50,6 +42,15 @@
  - [отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
  - [про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
+### на русском
+ - [Python для начинающих](http://python-rutour.rhcloud.com/)
+ - [Питонтьютор](http://pythontutor.ru/)
+ - [Пишем бота для Telegram на языке Python](https://groosha.gitbooks.io/telegram-bot-lessons)
+ - [Django Girls](https://djangogirls.org/)
+ - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
+ - [про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
+
+
 ## Полезные ресурсы
  
 ### на английском
@@ -57,11 +58,11 @@
  - [/r/LearnPython](https://www.reddit.com/r/learnpython/)
  - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-
 ### на русском
  - [Habrahabr](https://habrahabr.ru/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
+
 
 ## Видео
 
