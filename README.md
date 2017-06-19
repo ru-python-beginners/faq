@@ -27,6 +27,7 @@
  - М. Саммерфилд. «Программирование на Python»
  - [E. Matthes. Learning Python](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf) / Э. Мэтиз. Изучаем Python
  - [A Byte of Python](https://python.swaroopch.com/)
+ - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
  
 Ещё есть канал с книгами:
  - [@ru_python_books](https://t.me/ru_python_books) (требуется мейнтейнер, пишите [@banteg](https://t.me/banteg))
