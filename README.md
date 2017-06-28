@@ -30,36 +30,36 @@
  - [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/) / HTML-версия бесплатная
  
 Ещё есть канал с книгами:
- - [@ru_python_books](https://t.me/ru_python_books) (требуется мейнтейнер, пишите [@banteg](https://t.me/banteg))
+ - [@ru_python_books](https://t.me/ru_python_books)
 
 
 ## Туториалы и статьи
 
-### на английском
+### На английском
  - [Full Stack Python](https://www.fullstackpython.com/)
  - [Learn X in Y minutes, where X=python3](https://learnxinyminutes.com/docs/ru-ru/python3-ru/)
  - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
  - [Intermediate Python](https://www.gitbook.com/book/lancelote/intermediate-python/details)
- - [отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
- - [про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+ - [Отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
+ - [Про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
-### на русском
+### На русском
  - [Python для начинающих](http://python-rutour.rhcloud.com/)
  - [Питонтьютор](http://pythontutor.ru/)
  - [Пишем бота для Telegram на языке Python](https://groosha.gitbooks.io/telegram-bot-lessons)
  - [Django Girls](https://djangogirls.org/)
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
- - [про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
+ - [Про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
 
 
 ## Полезные ресурсы
  
-### на английском
+### На английском
  - [StackOverflow](https://stackoverflow.com/questions/tagged/python)
  - [/r/LearnPython](https://www.reddit.com/r/learnpython/)
  - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-### на русском
+### На русском
  - [Habrahabr](https://habrahabr.ru/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
@@ -70,7 +70,7 @@
 ### Youtube: Python
 
  - [Coding Entrepeneurs](https://www.youtube.com/user/CodingEntrepreneurs)
- - [shadrus](https://www.youtube.com/user/shadrus)
+ - [Shadrus](https://www.youtube.com/user/shadrus)
 
 ### Youtube: Программирование
 
