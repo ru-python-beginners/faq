@@ -28,6 +28,7 @@
  - [E. Matthes. Learning Python](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf) / Э. Мэтиз. Изучаем Python
  - [A Byte of Python](https://python.swaroopch.com/)
  - [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/) / HTML-версия бесплатная
+ - [Learn More Python The Hard Way](https://learncodethehardway.org/more-python-book/) / HTML-версия бесплатная
  
 Ещё есть канал с книгами:
  - [@ru_python_books](https://t.me/ru_python_books)
