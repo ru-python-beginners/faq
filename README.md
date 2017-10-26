@@ -65,7 +65,7 @@
  - [Habrahabr](https://habrahabr.ru/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
-
+ - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
 
 ## Видео
 
