@@ -113,7 +113,8 @@
  - [@pyflood](https://t.me/pyflood)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
- - @python_beginners - лишился модерации
+ - [@botoid](https://t.me/botoid) — группа разработчиков для Telegram
+ - @python_beginners — лишился модерации
 
 ### Slack
 
