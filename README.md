@@ -118,7 +118,7 @@
 
 ### Slack
 
- - [Python.ru](https://python.stamplayapp.com/)
+ - [Python.ru](https://slack.python.ru/)
 
 ## Отправка фрагментов кода в чат
 
