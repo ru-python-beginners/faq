@@ -31,7 +31,7 @@
  - [Learn More Python The Hard Way](https://learncodethehardway.org/more-python-book/) / HTML-версия бесплатная
  
 Ещё есть канал с книгами:
- - [@ru_python_books](https://t.me/ru_python_books)
+ - [@python_textbooks](https://t.me/python_textbooks)
 
 
 ## Туториалы и статьи
