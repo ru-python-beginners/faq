@@ -104,6 +104,12 @@
  - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
  - [Hacker Rank](https://hackerrank.com)
 
+
+### Гайд по работе
+
+ - [Upwork для начинающих](http://odeskconf.github.io/guide//)
+
+
 ## Чаты для обсуждения и взаимопомощи
 
 ### Telegram
