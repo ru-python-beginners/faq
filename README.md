@@ -63,7 +63,7 @@
  - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ### На русском
- - [Habrahabr](https://habrahabr.ru/hub/python/)
+ - [Habr](https://habr.com/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
  - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
