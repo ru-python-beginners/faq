@@ -122,6 +122,8 @@
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
  - [@botoid](https://t.me/botoid) — группа разработчиков для Telegram
+ - [@ru_flask](https://t.me/ru_flask)
+ - [@scrapy_python](https://t.me/scrapy_python)
  - @python_beginners — лишился модерации
 
 ### Slack
