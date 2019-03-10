@@ -19,7 +19,7 @@
  - [Atom](https://atom.io/)
  - [Sublime Text](https://www.sublimetext.com/3) (про плагины для питона ищите в чате по хештегу #sublimetext)
  - [Eclipse](https://www.eclipse.org/downloads/) ([пост на Хабре про настройку](https://habrahabr.ru/post/167559/))
- - [Rodeo](https://www.yhat.com/products/rodeo) (python IDE для анализа данных)
+ - [Rodeo](https://rodeo.yhat.com/) (python IDE для анализа данных)
 
 ## Книги
 
