@@ -47,7 +47,6 @@
  - [Practice Python](http://www.practicepython.org/)
 
 ### На русском
- - [Python для начинающих](http://python-rutour.rhcloud.com/)
  - [Питонтьютор](http://pythontutor.ru/)
  - [Пишем бота для Telegram на языке Python](https://groosha.gitbooks.io/telegram-bot-lessons)
  - [Django Girls](https://djangogirls.org/)
