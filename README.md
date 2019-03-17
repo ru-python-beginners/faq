@@ -60,6 +60,7 @@
  - [StackOverflow](https://stackoverflow.com/questions/tagged/python)
  - [/r/LearnPython](https://www.reddit.com/r/learnpython/)
  - [GitHub Student Developer Pack](https://education.github.com/pack)
+ - [Awesome Python](https://github.com/vinta/awesome-python)
 
 ### На русском
  - [Habr](https://habr.com/hub/python/)
