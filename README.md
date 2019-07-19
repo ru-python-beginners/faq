@@ -105,6 +105,8 @@
  - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
  - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
  - [Hacker Rank](https://hackerrank.com)
+ - [W3resource](https://www.w3resource.com/python-exercises/)
+ - [LeetCode](https://leetcode.com/problemset/all/)
 
 
 ### Гайд по работе
