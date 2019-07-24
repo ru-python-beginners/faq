@@ -45,6 +45,8 @@
  - [Отличный пост про структуру проектов и как гонять тесты](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
  - [Про сложность алгоритмов на примере питона](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
  - [Practice Python](http://www.practicepython.org/)
+ - [Антипаттерны в коде](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+ - [Паттерны проектирования](https://github.com/faif/python-patterns)
 
 ### На русском
  - [Питонтьютор](http://pythontutor.ru/)
