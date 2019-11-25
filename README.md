@@ -129,7 +129,7 @@
  - [@ru_flask](https://t.me/ru_flask)
  - [@scrapy_python](https://t.me/scrapy_python)
  - @python_beginners — лишился модерации
- - [@web2py_rus](htpps://t.me/web2py_rus)
+ - [@web2py_rus](https://t.me/web2py_rus)
 
 ### Slack
 
