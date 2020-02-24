@@ -38,6 +38,7 @@
 ## Туториалы и статьи
 
 ### На английском
+ - [The Python Tutorial](https://docs.python.org/3/tutorial/)
  - [Full Stack Python](https://www.fullstackpython.com/)
  - [Learn X in Y minutes, where X=python3](https://learnxinyminutes.com/docs/ru-ru/python3-ru/)
  - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
