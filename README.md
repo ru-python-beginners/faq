@@ -94,6 +94,7 @@
  - [Stepik. Adaptive Python](https://stepik.org/course/568)
  - [Codecademy](https://www.codecademy.com/learn/python)
  - [Code School](https://www.codeschool.com/learn/python)
+ - [JetBrains Academy] (https://hyperskill.org/onboarding?track=python)
 
 
 ### Задачи
