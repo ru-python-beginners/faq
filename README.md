@@ -11,6 +11,7 @@
  - [Flask](http://flask.pocoo.org/)
  - [Bottle](http://bottlepy.org/docs/stable/)
  - [SQLAlchemy](https://www.sqlalchemy.org/)
+ - [Fastapi](https://fastapi.tiangolo.com/)
 
 ## Редакторы и IDE
 
@@ -34,6 +35,8 @@
 Ещё есть канал с книгами:
  - [@python_textbooks](https://t.me/python_textbooks)
 
+И Яндекс Диск с книгами:
+ - [RudeBooks](https://yadi.sk/d/H-00n-UG3RSQem)
 
 ## Туториалы и статьи
 
@@ -72,6 +75,8 @@
  - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
  - [Собрание видеозаписей докладов про Python за 2018 год.](https://github.com/hH39797J/python-videos-ru-2018)
 
+## Каналы в телеграме
+ - [@pythonotes](https://t.me/pythonotes)
 ## Видео
 
 ### Youtube: Python
@@ -111,7 +116,8 @@
  - [Hacker Rank](https://hackerrank.com)
  - [W3resource](https://www.w3resource.com/python-exercises/)
  - [LeetCode](https://leetcode.com/problemset/all/)
-
+ 
+Также в [@ru_python_beginners](https://t.me/ru_python_beginners) под хештегами #todo , #задание, #задача вы можете найти для себя задание.
 
 ### Гайд по работе
 
@@ -130,8 +136,10 @@
  - [@botoid](https://t.me/botoid) — группа разработчиков для Telegram
  - [@ru_flask](https://t.me/ru_flask)
  - [@scrapy_python](https://t.me/scrapy_python)
- - @python_beginners — лишился модерации
-
+ - [@fastapi_ru](https://t.me/fastapi_ru)
+ - [@aiohttp_ru](https://t.me/aiohttp_ru)
+ 
+ 
 ### Slack
 
  - [Python.ru](https://slack.python.ru/)
