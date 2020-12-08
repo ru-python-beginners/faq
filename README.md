@@ -35,9 +35,6 @@
 Ещё есть канал с книгами:
  - [@python_textbooks](https://t.me/python_textbooks)
 
-И Яндекс Диск с книгами:
- - [RudeBooks](https://yadi.sk/d/H-00n-UG3RSQem)
-
 ## Туториалы и статьи
 
 ### На английском
