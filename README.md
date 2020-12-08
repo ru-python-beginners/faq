@@ -69,6 +69,7 @@
  - [Habr](https://habr.com/hub/python/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
+ - [@pythonotes](https://t.me/pythonotes)
  - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
  - [Собрание видеозаписей докладов про Python за 2018 год.](https://github.com/hH39797J/python-videos-ru-2018)
 
@@ -111,6 +112,7 @@
  - [Hacker Rank](https://hackerrank.com)
  - [W3resource](https://www.w3resource.com/python-exercises/)
  - [LeetCode](https://leetcode.com/problemset/all/)
+ - Также в [@ru_python_beginners](https://t.me/ru_python_beginners) под хештегами #todo , #задание, #задача вы можете найти для себя задачки.
 
 
 ### Гайд по работе
@@ -130,7 +132,8 @@
  - [@botoid](https://t.me/botoid) — группа разработчиков для Telegram
  - [@ru_flask](https://t.me/ru_flask)
  - [@scrapy_python](https://t.me/scrapy_python)
- - @python_beginners — лишился модерации
+ - [@fastapi_ru](https://t.me/fastapi_ru)
+ - [@aiohttp_ru](https://t.me/aiohttp_ru)
 
 ### Slack
 
