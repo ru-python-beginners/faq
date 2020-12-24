@@ -30,6 +30,7 @@
  - [A Byte of Python](https://python.swaroopch.com/)
  - [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/) / HTML-версия бесплатная
  - [Learn More Python The Hard Way](https://learncodethehardway.org/more-python-book/) / HTML-версия бесплатная
+ - [Cory Althoff. The self-taught programmer](https://www.theselftaughtprogrammer.io) / Кори Альтхофф. Сам себе программист(на примере Python)
  
 Ещё есть канал с книгами:
  - [@python_textbooks](https://t.me/python_textbooks)
