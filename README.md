@@ -55,6 +55,7 @@
  - [Django Girls](https://djangogirls.org/)
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
  - [Про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
+ - [PyNsk](https://pynsk.ru/) ( [старый сайт](http://old.pynsk.ru/), [hardcore python](http://old.pynsk.ru/category/hardcore-python.html) )
 
 
 ## Полезные ресурсы
