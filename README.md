@@ -130,10 +130,12 @@
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
  - [@botoid](https://t.me/botoid) — группа разработчиков для Telegram
+ - [@aiogram_ru](https://t.me/aiogram_ru)
  - [@ru_flask](https://t.me/ru_flask)
  - [@scrapy_python](https://t.me/scrapy_python)
  - [@fastapi_ru](https://t.me/fastapi_ru)
  - [@aiohttp_ru](https://t.me/aiohttp_ru)
+ - [@python_scripts](https://https://t.me/python_scripts)
 
 ### Slack
 
