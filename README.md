@@ -71,6 +71,7 @@
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
  - [@pythonotes](https://t.me/pythonotes)
+ - [@pyproglib](https://t.me/pyproglib)
  - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
  - [Собрание видеозаписей докладов про Python за 2018 год.](https://github.com/hH39797J/python-videos-ru-2018)
 
