@@ -68,6 +68,8 @@
 
 ### На русском
  - [Habr](https://habr.com/hub/python/)
+ - [Tproger](https://tproger.ru/tag/python/)
+ - [python-scripts.com](https://python-scripts.com/)
  - [Toster](https://toster.ru/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
  - [@pythonotes](https://t.me/pythonotes)
