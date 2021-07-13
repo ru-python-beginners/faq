@@ -74,7 +74,6 @@
  - [@py_digest](https://t.me/py_digest)
  - [@pythonotes](https://t.me/pythonotes)
  - [@pyproglib](https://t.me/pyproglib)
- - [@python_scripts](https://t.me/python_scripts)
  - [Гайд от подписчика по изучению Data Science](https://github.com/HorusHeresyHeretic/ReadMe)
  - [Собрание видеозаписей докладов про Python за 2018 год.](https://github.com/hH39797J/python-videos-ru-2018)
 
@@ -131,6 +130,7 @@
 
  - [@ru_python_beginners](https://t.me/ru_python_beginners)
  - [@ru_python](https://t.me/ru_python)
+ - [@python_scripts](https://t.me/python_scripts)
  - [@pyflood](https://t.me/pyflood)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
