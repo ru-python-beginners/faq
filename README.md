@@ -70,7 +70,7 @@
  - [Habr](https://habr.com/hub/python/)
  - [Tproger](https://tproger.ru/tag/python/)
  - [python-scripts.com](https://python-scripts.com/)
- - [Toster](https://toster.ru/tag/python/info)
+ - [Habr Q&A](https://qna.habr.com/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
  - [@pythonotes](https://t.me/pythonotes)
  - [@pyproglib](https://t.me/pyproglib)
@@ -130,6 +130,7 @@
 
  - [@ru_python_beginners](https://t.me/ru_python_beginners)
  - [@ru_python](https://t.me/ru_python)
+ - [@python_scripts](https://t.me/python_scripts)
  - [@pyflood](https://t.me/pyflood)
  - [@pydjango](https://t.me/pydjango)
  - [@django_framework](https://t.me/django_framework)
