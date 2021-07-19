@@ -56,6 +56,7 @@
  - [Django Girls](https://djangogirls.org/)
  - [FAQ telegram-чата pydjango](https://github.com/amureki/django_faq)
  - [Про сложность алгоритмов и O-символику](https://learnxinyminutes.com/docs/ru-ru/asymptotic-notation-ru/)
+ - [Djngo в примерах](https://pocoz.gitbooks.io/django-v-primerah/content/)
 
 
 ## Полезные ресурсы
@@ -139,6 +140,7 @@
  - [@scrapy_python](https://t.me/scrapy_python)
  - [@fastapi_ru](https://t.me/fastapi_ru)
  - [@aiohttp_ru](https://t.me/aiohttp_ru)
+ - [@python_scripts](https://t.me/python_scripts)
 
 ### Slack
 
