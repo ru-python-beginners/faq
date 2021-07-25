@@ -70,7 +70,6 @@
  - [Habr](https://habr.com/hub/python/)
  - [Tproger](https://tproger.ru/tag/python/)
  - [python-scripts.com](https://python-scripts.com/)
- - [pythonist.ru](https://pythonist.ru/)
  - [Habr Q&A](https://qna.habr.com/tag/python/info)
  - [@py_digest](https://t.me/py_digest)
  - [@pythonotes](https://t.me/pythonotes)
