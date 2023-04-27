@@ -8,7 +8,7 @@
 
  - [Python 3](https://docs.python.org/3/)
  - [Django](https://docs.djangoproject.com/)
- - [Flask](http://flask.pocoo.org/)
+ - [Flask](https://flask.palletsprojects.com/)
  - [Bottle](http://bottlepy.org/docs/stable/)
  - [SQLAlchemy](https://www.sqlalchemy.org/)
 
@@ -26,7 +26,6 @@
 Для начинающих хорошо подойдет какая-нибудь из нижеперечисленных:
  - М. Лутц. «Изучаем Python»
  - М. Саммерфилд. «Программирование на Python»
- - [E. Matthes. Learning Python](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf) / Э. Мэтиз. Изучаем Python
  - [A Byte of Python](https://python.swaroopch.com/)
  - [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/) / HTML-версия бесплатная
  - [Learn More Python The Hard Way](https://learncodethehardway.org/more-python-book/) / HTML-версия бесплатная
