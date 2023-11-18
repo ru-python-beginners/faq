@@ -16,8 +16,6 @@
 
  - [PyCharm](https://www.jetbrains.com/pycharm/) ([бесплатная лицензия для студентов](http://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/))
  - [Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
- - [Atom](https://atom.io/)
- - [Sublime Text](https://www.sublimetext.com/3) (про плагины для питона ищите в чате по хештегу #sublimetext)
  - [Eclipse](https://www.eclipse.org/downloads/) ([пост на Хабре про настройку](https://habrahabr.ru/post/167559/))
  - [Rodeo](https://rodeo.yhat.com/) (python IDE для анализа данных)
 
@@ -34,6 +32,7 @@
 Ещё есть канал с книгами:
  - [@python_textbooks](https://t.me/python_textbooks)
 
+И ещё есть [список книг](https://t.me/ru_python_beginners/2325721), рекомендуемых в этом чате
 
 ## Туториалы и статьи
 
@@ -110,7 +109,7 @@
  - [Codingame](https://www.codingame.com/start)
  - [Школа программиста](https://acmp.ru/)
  - [Empire of Code](https://empireofcode.com/)
- - [Advent of Code](http://adventofcode.com/) ([2015](http://adventofcode.com/2015), [2016](http://adventofcode.com))
+ - [Advent of Code](http://adventofcode.com/)
  - [Project Euler](https://projecteuler.net) ([частичный перевод](http://euler.jakumo.org))
  - [Hacker Rank](https://hackerrank.com)
  - [W3resource](https://www.w3resource.com/python-exercises/)
@@ -160,7 +159,7 @@
 
 Для многострочных (до 10 строк) фрагментов:
 
-    ```
+    ```py
     source
         code
             example
